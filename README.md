@@ -4,6 +4,7 @@
 ## :computer: Used
 - VMware Workstation
 - iptime
+- DS3615xs
 
 ## :memo: NAS 구축한 이유
 ![image](https://user-images.githubusercontent.com/40004210/133265585-64a756af-34f6-4af7-9a3f-85895f26441c.png)  
@@ -17,5 +18,20 @@
 
 이후, 부품들이 도착하기 전까지 관련 정보를 배우기 위해 여러 전문가에게 자문을 구함.
 
-## :clipboard: 
+## :clipboard: 결과
+![image](https://user-images.githubusercontent.com/40004210/133266732-cffc2dde-f239-4852-888f-10568c6cd850.png)   
+![image](https://user-images.githubusercontent.com/40004210/133267182-85923a0a-3d45-450c-823f-d7522323cd3f.png)  
 
+결론부터 말하면 구축 성공!
+일주일 동안 안정적인 스토리지를 구현하기 위해서 정말 이것만 알아본 것 같음...
+만약 내가 밖에서 중요한 업무를 진행 중인데 컴퓨터가 꺼진다면? 파일이 날아간다면? 전송이 중지된다면? 속상할 것 같아서
+
+어쨌거나 진행하면서 겪었던 문제점을 하나 씩 살펴보자면
+
+**공유기 이슈**
+
+**맥북 포트포워딩**
+
+**윈도우 강제 업데이트로 데스크톱 종료**
+
+**스토리지 백업**

@@ -20,7 +20,8 @@
 
 ## :clipboard: 결과
 ![image](https://user-images.githubusercontent.com/40004210/133266732-cffc2dde-f239-4852-888f-10568c6cd850.png)   
-![image](https://user-images.githubusercontent.com/40004210/133267182-85923a0a-3d45-450c-823f-d7522323cd3f.png)  
+![image](https://user-images.githubusercontent.com/40004210/133267605-080f6cde-c5c1-415b-972c-b09e9ab5de30.png)   
+![image](https://user-images.githubusercontent.com/40004210/133267182-85923a0a-3d45-450c-823f-d7522323cd3f.png)   
 
 결론부터 말하면 구축 성공!
 일주일 동안 안정적인 스토리지를 구현하기 위해서 정말 이것만 알아본 것 같음...
